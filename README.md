@@ -12,7 +12,8 @@ Java- The primary programming language used to develop the application.
 Swing- A GUI widget toolkit for Java, used to create the application's user interface.
 
 Project Structure:
-MenusFrameAppNew.java: The main Java file that contains the application logic, including the setup of the JMenuBar, JMenu, and JMenuItem components, as well as the event handling code.
+MenusFrameApp.java- The main Java file that contains the frame in its library, used to run the application.
+MenusFrame.java- Java file that contains the application logic, including the setup of the JMenuBar, JMenu, and JMenuItem components, as well as the event handling code.
 
 Clone the repository:
 git clone https://github.com/tjrapodile/MenusFrameAppNew.git
